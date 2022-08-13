@@ -5,7 +5,7 @@ Repository to predict cross sell between car and health insurance using the data
 
 ## Roadmap
 
-- Test dependency between variables and response
+- ~~Test dependency between variables and response~~
 
 - Measure correlation between variables
 
