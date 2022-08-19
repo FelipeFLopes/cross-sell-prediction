@@ -12,6 +12,7 @@ statsmodels = "*"
 imbalanced-learn = "*"
 
 [dev-packages]
+black = "*"
 
 [requires]
 python_version = "3.9"
