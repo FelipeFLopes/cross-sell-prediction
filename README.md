@@ -9,7 +9,9 @@ Repository to predict cross sell between car and health insurance using the data
 
 - [ ] Measure correlation between variables
 
-- [ ] Test techniques to deal with imbalanced classes
+- [ ] Test change of classification threshold on prediction results
+
+- [ ] Test sampling techniques to deal with imbalanced classes
 
 - [ ] Deploy model locally
 
