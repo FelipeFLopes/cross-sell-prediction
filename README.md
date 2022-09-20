@@ -5,13 +5,13 @@ Repository to predict cross sell between car and health insurance using the data
 
 ## Roadmap
 
-- ~~Test dependency between variables and response~~
+- [x] Test dependency between variables and response
 
-- Measure correlation between variables
+- [ ] Measure correlation between variables
 
-- Test techniques to deal with imbalanced classes
+- [ ] Test techniques to deal with imbalanced classes
 
-- Deploy model locally
+- [ ] Deploy model locally
 
 
 ## 🚀 About Me
