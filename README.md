@@ -7,9 +7,9 @@ Repository to predict cross sell between car and health insurance using the data
 
 - [x] Test dependency between variables and response
 
-- [ ] Measure correlation between variables
+- [x] Measure correlation between variables
 
-- [ ] Test change of classification threshold on prediction results
+- [x] Test change of classification threshold on prediction results
 
 - [ ] Test sampling techniques to deal with imbalanced classes
 
