@@ -1,13 +1,13 @@
 
 # Cross Sell prediction
 
-Repository to predict cross sell between car and health insurance using the data presented on the following kaggle dataset: [Health Insurance Cross Sell Prediction](https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction)
+Project to predict if a customer from an insurance company that has provided Health Insurance will need vehicle insurance, using the data presented on the following Kaggle dataset: [Health Insurance Cross Sell Prediction](https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction). Here various under and oversampling techniques were analysed based on how they improved the performance of an XGBoost and other classification models.
 
 ## Roadmap
 
 - [x] Test dependency between variables and response
 
-- [x] Measure correlation between variables
+- [x] Measure the correlation between variables
 
 - [x] Test change of classification threshold on prediction results
 
